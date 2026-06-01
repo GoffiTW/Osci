@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+3d61aa3dff15250105a432705476ac5d .qt/rcc/qrc_Osci_translations.cpp
+d97020b35b742f6d116e9cce19f09519 CMakeFiles/Osci_autogen
+d97020b35b742f6d116e9cce19f09519 CMakeFiles/Osci_lrelease
+927002f213a373dc0fe201d041c3b767 CMakeFiles/Osci_lupdate
+46d2274957ad788c0f6ef5027884a544 Osci_autogen/timestamp
+bb193640072ebfe403b6df4800864d5e Osci_ru_RU.qm
